@@ -1,0 +1,4 @@
+apiVersion: v2 # helm realted to k8s
+name: nginx
+version: 0.0.1 # helm version
+description: "Upgrading nginx"
